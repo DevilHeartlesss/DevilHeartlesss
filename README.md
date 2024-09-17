@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 DSA
 ---
 
-Adept in C and C++, currently diving into Data Structures & Algorithms (DSA) to solidify my foundational knowledge. Recently embarked on my web development journey, eager to explore the exciting world of building interactive applications.
+Adapt in C and C++, currently diving into Data Structures & Algorithms (DSA) to solidify my foundational knowledge. Recently embarked on my web development journey, eager to explore the exciting world of building interactive applications.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [ambitiousaayush8948@gmail.com](mailto:ambitiousaayush8948@gmail.com)
