@@ -1,38 +1,115 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aayush Singh
+<h1 align="center">Aayush Singh</h1>
+<h3 align="center">Aspiring Software Engineer | Data Structures & Algorithms | Full Stack Web Development</h3>
 
-====================================================================================================================================
-
-DSA
----
-
-Adapt in C and C++, currently diving into Data Structures & Algorithms (DSA) to solidify my foundational knowledge. Recently embarked on my web development journey, eager to explore the exciting world of building interactive applications.
-
-* 🌍  I'm based in India
-* ✉️  You can contact me at [ambitiousaayush8948@gmail.com](mailto:ambitiousaayush8948@gmail.com)
-* 🧠  I'm learning DSA and Web dev
-* 🤝  I'm open to collaborating on Frontend Development
-
-### Skills
-
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<p align="center">
+  <a href="https://github.com/DevilHeartlesss">
+    <img src="https://komarev.com/ghpvc/?username=DevilHeartlesss&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  </a>
 </p>
 
+---
 
-### Socials
+## About Me
 
-<p align="left"> <a href="https://www.github.com/DevilHeartlesss" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/aayush-singh-6b5978253" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> 
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+I am a Computer Science student with a strong interest in software engineering, problem solving, and full-stack web development. I enjoy building practical applications while continuously strengthening my understanding of Data Structures and Algorithms.
 
-### Badges
+Currently, I am focused on:
 
-<b>My GitHub Stats</b>
+- Data Structures & Algorithms
+- MERN Stack Development
+- REST API Development
+- Backend Development with Node.js & Express.js
+- Database Design using MongoDB
 
-<a href="http://www.github.com/DevilHeartlesss"><img src="https://github-readme-stats.vercel.app/api?username=DevilHeartlesss&show_icons=true&hide=&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="DevilHeartlesss's GitHub stats" /></a>
+---
 
-<a href="http://www.github.com/DevilHeartlesss"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DevilHeartlesss&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+## Tech Stack
 
-<a href="http://www.github.com/DevilHeartlesss"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=DevilHeartlesss&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+### Languages
 
-<a href="https://github.com/DevilHeartlesss" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevilHeartlesss&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,js" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+</p>
+
+---
+
+## Currently Learning
+
+- Advanced Data Structures & Algorithms
+- React.js
+- Express.js
+- MongoDB
+- Authentication & Authorization
+- Deployment and Cloud Services
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DevilHeartlesss&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevilHeartlesss&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DevilHeartlesss&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevilHeartlesss&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+## Featured Areas
+
+- Data Structures & Algorithms
+- Backend Development
+- REST API Design
+- Full Stack Web Applications
+- Problem Solving
+
+---
+
+## Connect With Me
+
+<p align="left">
+<a href="mailto:ambitiousaayush8948@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+<a href="https://www.linkedin.com/in/aayush-singh-6b5978253">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="https://github.com/DevilHeartlesss">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+</p>
+
+---
+
+> *"Continuous learning and consistent practice are the foundation of great software engineering."*
